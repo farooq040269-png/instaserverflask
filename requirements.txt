@@ -1,0 +1,7 @@
+flask
+deepface
+requests
+pillow
+gunicorn
+numpy
+tensorflow
