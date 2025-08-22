@@ -4,4 +4,4 @@ requests
 pillow
 gunicorn
 numpy
-tensorflow-cpu
+tensorflow-cpu==2.13.0
