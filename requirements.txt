@@ -4,4 +4,4 @@ requests
 pillow
 gunicorn
 numpy
-tensorflow
+tensorflow-cpu
